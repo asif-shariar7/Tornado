@@ -41,19 +41,19 @@ Say "Hello Tornado" to start listening:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/tornado-assistant.git
-cd tornado-assistant
+git clone https://github.com/asif-shariar7/Tornado.git
+cd Tornado
 
 # 2. Create and activate a virtual environment
 python -m venv venv
-# Windows
+# Windows PowerShell
 .\venv\Scripts\activate
 
 # 3. Install dependencies
 pip install -r requirements.txt
 
-# 4. Set up your .env file
-API_KEY=your_gemini_api_key_here
+# 4. Create a file named .env in the Tornado folder and add this line inside it:
+# API_KEY=your_gemini_api_key_here
 
 # 5. Run the assistant
 python tornado.py
