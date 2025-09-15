@@ -37,7 +37,7 @@ Say "Hello Tornado" to start listening:
 
 ---
 
-## 🚀 Installation, Usage & Example Commands
+## 🚀 Installation Commands
 
 ```bash
 # 1. Clone the repository
